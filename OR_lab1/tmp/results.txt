@@ -1,0 +1,111 @@
+# BAD SET 1 #
+Naive algorythm:
+	found on positions [8]
+	time: 0.0
+	count: 18
+RK algorythm:
+	found on positions [8]
+	time: 0.0
+	count: 11
+KMP algorythm:
+	found on positions [8]
+	time: 0.0
+	count: 18
+
+# BAD SET 2 #
+Naive algorythm:
+	found on positions [90]
+	time: 0.0009963512420654297
+	count: 910
+RK algorythm:
+	found on positions [90]
+	time: 0.0
+	count: 101
+KMP algorythm:
+	found on positions [90]
+	time: 0.0
+	count: 190
+
+# BAD SET 3 #
+Naive algorythm:
+	found on positions [900]
+	time: 0.0
+	count: 90100
+RK algorythm:
+	found on positions [900]
+	time: 0.12417101860046387
+	count: 1001
+KMP algorythm:
+	found on positions [900]
+	time: 0.000997304916381836
+	count: 1900
+
+# BAD SET 4 #
+Naive algorythm:
+	found on positions [4000]
+	time: 0.0019948482513427734
+	count: 4001000
+RK algorythm:
+	found on positions [4000]
+	time: 13.157957553863525
+	count: 5001
+KMP algorythm:
+	found on positions [4000]
+	time: 0.0029916763305664062
+	count: 9000
+
+# GOOD SET 1 #
+Naive algorythm:
+	found on positions [599]
+	time: 0.0
+	count: 11526
+RK algorythm:
+	found on positions [599]
+	time: 0.00712275505065918
+	count: 695
+KMP algorythm:
+	found on positions [599]
+	time: 0.0
+	count: 713
+
+# GOOD SET 2 #
+Naive algorythm:
+	found on positions [610]
+	time: 0.0
+	count: 91290
+RK algorythm:
+	found on positions [610]
+	time: 0.07566356658935547
+	count: 1159
+KMP algorythm:
+	found on positions [610]
+	time: 0.0009996891021728516
+	count: 1158
+
+# GOOD SET 3 #
+Naive algorythm:
+	found on positions [1629]
+	time: 0.000997304916381836
+	count: 1165098
+RK algorythm:
+	found on positions [1629]
+	time: 2.030500888824463
+	count: 3439
+KMP algorythm:
+	found on positions [1629]
+	time: 0.000997781753540039
+	count: 3539
+
+# GOOD SET 4 #
+Naive algorythm:
+	found on positions [9522]
+	time: 0.0029904842376708984
+	count: 977316
+RK algorythm:
+	found on positions [9522]
+	time: 0.9726016521453857
+	count: 10715
+KMP algorythm:
+	found on positions [9522]
+	time: 0.0029973983764648438
+	count: 10714
