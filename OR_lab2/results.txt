@@ -1,0 +1,199 @@
+     TEST 1
+
+2-approx  answer: [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+          result: [0, 1, 2, 3, 5]
+          max_cost: 309
+          cost: 309
+          weight: 165
+          time: 0.0
+          interm_res: ?
+
+DP        answer: [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+          result: []
+          max_cost: 309
+          cost: 309
+          weight: ?
+          time: 0.002991199493408203
+          interm_res: 1650
+
+PTAS      answer: [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+          result: [1, 1, 1, 1, 0, 1, 0, 0, 0, 0]
+          max_cost: 309
+          cost: 309
+          weight: 514
+          time: 0.0039904117584228516
+          interm_res: ?
+
+
+
+
+     TEST 2
+
+2-approx  answer: [0, 1, 1, 1, 0]
+          result: [2, 0]
+          max_cost: 51
+          cost: 47
+          weight: 23
+          time: 0.0
+          interm_res: ?
+
+DP        answer: [0, 1, 1, 1, 0]
+          result: []
+          max_cost: 51
+          cost: 51
+          weight: ?
+          time: 0.0
+          interm_res: 130
+
+PTAS      answer: [0, 1, 1, 1, 0]
+          result: [0, 1, 1, 1, 0]
+          max_cost: 51
+          cost: 51
+          weight: 35
+          time: 0.0
+          interm_res: ?
+
+
+
+
+     TEST 3
+
+2-approx  answer: [1, 1, 0, 0, 1, 0]
+          result: [0, 1, 4]
+          max_cost: 150
+          cost: 150
+          weight: 190
+          time: 0.0
+          interm_res: ?
+
+DP        answer: [1, 1, 0, 0, 1, 0]
+          result: []
+          max_cost: 150
+          cost: 150
+          weight: ?
+          time: 0.001995563507080078
+          interm_res: 1140
+
+PTAS      answer: [1, 1, 0, 0, 1, 0]
+          result: [1, 1, 0, 0, 1, 0]
+          max_cost: 150
+          cost: 150
+          weight: 295
+          time: 0.0
+          interm_res: ?
+
+
+
+
+     TEST 4
+
+2-approx  answer: [1, 0, 0, 1, 0, 0, 0]
+          result: [0, 1, 6]
+          max_cost: 107
+          cost: 100
+          weight: 47
+          time: 0.0
+          interm_res: ?
+
+DP        answer: [1, 0, 0, 1, 0, 0, 0]
+          result: []
+          max_cost: 107
+          cost: 107
+          weight: ?
+          time: 0.0009980201721191406
+          interm_res: 350
+
+PTAS      answer: [1, 0, 0, 1, 0, 0, 0]
+          result: [1, 0, 0, 1, 0, 0, 0]
+          max_cost: 107
+          cost: 107
+          weight: 62
+          time: 0.0009965896606445312
+          interm_res: ?
+
+
+
+
+     TEST 5
+
+2-approx  answer: [1, 0, 1, 1, 1, 0, 1, 1]
+          result: [0, 1, 4]
+          max_cost: 900
+          cost: 820
+          weight: 85
+          time: 0.0
+          interm_res: ?
+
+DP        answer: [1, 0, 1, 1, 1, 0, 1, 1]
+          result: []
+          max_cost: 900
+          cost: 900
+          weight: ?
+          time: 0.0019958019256591797
+          interm_res: 832
+
+PTAS      answer: [1, 0, 1, 1, 1, 0, 1, 1]
+          result: [1, 0, 1, 1, 1, 0, 1, 1]
+          max_cost: 900
+          cost: 900
+          weight: 117
+          time: 0.0009965896606445312
+          interm_res: ?
+
+
+
+
+     TEST 6
+
+2-approx  answer: [0, 1, 0, 1, 0, 0, 1]
+          result: [0, 1, 6]
+          max_cost: 1735
+          cost: 1584
+          weight: 151
+          time: 0.0009961128234863281
+          interm_res: ?
+
+DP        answer: [0, 1, 0, 1, 0, 0, 1]
+          result: []
+          max_cost: 1735
+          cost: 1735
+          weight: ?
+          time: 0.0009982585906982422
+          interm_res: 1190
+
+PTAS      answer: [0, 1, 0, 1, 0, 0, 1]
+          result: [0, 1, 0, 1, 0, 0, 1]
+          max_cost: 1735
+          cost: 1735
+          weight: 330
+          time: 0.0009958744049072266
+          interm_res: ?
+
+
+
+
+     TEST 7
+
+2-approx  answer: [1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+          result: [14, 8, 7, 13, 2, 0, 6, 4]
+          max_cost: 1458
+          cost: 1458
+          weight: 749
+          time: 0.0
+          interm_res: ?
+
+DP        answer: [1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+          result: []
+          max_cost: 1458
+          cost: 1458
+          weight: ?
+          time: 0.023935556411743164
+          interm_res: 11250
+
+PTAS      answer: [1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+          result: [1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+          max_cost: 1458
+          cost: 1458
+          weight: 1363
+          time: 0.2184162139892578
+          interm_res: ?
